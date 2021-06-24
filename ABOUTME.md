@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Antwan Grant 
+- 👋 Hi, I’m Antwan Grant
+- ✨ I'm a military veteran of United States Marine Corp who served in desert storm
+- ✨ I've workedin the IT field for 16 years
 - 👀 I’m interested in font end web designing.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Java, Spring Boot , Reactjs, Eclipse and Postgresql.
 - 💞️ I’m looking to work on projects where I can utilize my new skills to advance the companies objectives.
