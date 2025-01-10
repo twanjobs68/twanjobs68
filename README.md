@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Antwan Grant
 - 👀 I’m interested in Web design, crafted table arrangements and door hangings and meeting new people.
-- 🌱 I’m currently learning HTML, CSS, Javascript, React JS and Spring Boot
+- 🌱 I’m continuing to upskill with HTML, CSS, Javascript, React JS 
 - 💞️ I’m looking to collaborate on Front End Web-developement opportunities
 - 📫 How to reach me - https://www.linkedin.com/in/twangrantse
 
